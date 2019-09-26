@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="54649" started-at="2019-09-26T14:15:54Z" finished-at="2019-09-26T14:16:49Z">
+    <groups>
+    </groups>
+    <test name="Regression1" duration-ms="54649" started-at="2019-09-26T14:15:54Z" finished-at="2019-09-26T14:16:49Z">
+      <class name="org.atmecs.website.testscripts.Insights">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:org.atmecs.website.testscripts.Insights@1a968a59]" name="startReport" is-config="true" duration-ms="265" started-at="2019-09-26T14:15:54Z" finished-at="2019-09-26T14:15:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="baseSetup()[pri:0, instance:org.atmecs.website.testscripts.Insights@1a968a59]" name="baseSetup" is-config="true" duration-ms="6680" started-at="2019-09-26T14:15:54Z" finished-at="2019-09-26T14:16:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="footerValidate(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Insights@1a968a59]" name="footerValidate" duration-ms="34360" started-at="2019-09-26T14:16:02Z" data-provider="footerdata" finished-at="2019-09-26T14:16:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sitemap]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[About Us]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Partners]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Case Studies old]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[News]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Quality Engineering]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Blockchain]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Cloud Services]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[Enterprise Analytics]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[Internet of Things]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[Mobile Computing]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[Product Engineering]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[Automation Engineer]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[DevOps Engineer]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[Senior .NET Engineer]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[Senior Java/J2EE Engineer]]>
+              </value>
+            </param>
+            <param index="25">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+            <param index="26">
+              <value>
+                <![CDATA[US Headquarters]]>
+              </value>
+            </param>
+            <param index="27">
+              <value>
+                <![CDATA[US R&D Center]]>
+              </value>
+            </param>
+            <param index="28">
+              <value>
+                <![CDATA[India – Hyderabad]]>
+              </value>
+            </param>
+            <param index="29">
+              <value>
+                <![CDATA[India – Bangalore]]>
+              </value>
+            </param>
+            <param index="30">
+              <value>
+                <![CDATA[India – Chennai]]>
+              </value>
+            </param>
+            <param index="31">
+              <value>
+                <![CDATA[info@atmecs.com]]>
+              </value>
+            </param>
+            <param index="32">
+              <value>
+                <![CDATA[Europe – Ireland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerValidate -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.website.testscripts.Insights@1a968a59]" name="tearDown" is-config="true" duration-ms="408" started-at="2019-09-26T14:16:36Z" finished-at="2019-09-26T14:16:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=footerValidate status=SUCCESS method=Home.footerValidate(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Insights@1a968a59] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="FAIL" signature="validateBlogs()[pri:1, instance:org.atmecs.website.testscripts.Insights@1a968a59]" name="validateBlogs" duration-ms="11893" started-at="2019-09-26T14:16:37Z" finished-at="2019-09-26T14:16:49Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at org.atmecs.website.helper.ActionHelper.sendKeys(ActionHelper.java:78)
+at org.atmecs.website.pages.InsightsPage.validateBlogs(InsightsPage.java:18)
+at org.atmecs.website.testscripts.Insights.validateBlogs(Insights.java:16)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBlogs -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.website.testscripts.Insights@1a968a59]" name="tearDown" is-config="true" duration-ms="409" started-at="2019-09-26T14:16:49Z" finished-at="2019-09-26T14:16:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateBlogs status=FAILURE method=Insights.validateBlogs()[pri:1, instance:org.atmecs.website.testscripts.Insights@1a968a59] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:org.atmecs.website.testscripts.Insights@1a968a59]" name="endReport" is-config="true" duration-ms="1415" started-at="2019-09-26T14:16:49Z" finished-at="2019-09-26T14:16:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- org.atmecs.website.testscripts.Insights -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
